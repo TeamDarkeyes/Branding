@@ -1,15 +1,1 @@
-<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <title>background</title>
-  <rect x="-1" y="-1" width="514" height="514" id="canvas_background" fill="none"/>
- </g>
-
- <g>
-  <title>Layer 1</title>
-  <g id="svg_11">
-   <circle fill="#8899A6" cx="256.000006" cy="255.999985" r="227.226868" id="svg_8"/>
-   <circle fill="#292F33" cx="256.000006" cy="255.999985" r="163.319214" id="svg_9"/>
-   <circle fill="#F5F8FA" cx="316.33421" cy="138.859065" r="65.327606" id="svg_10"/>
-  </g>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512"><g><title>background</title><rect id="canvas_background" width="514" height="514" x="-1" y="-1" fill="none"/></g><g><title>Layer 1</title><g id="svg_11"><circle id="svg_8" cx="256" cy="256" r="227.227" fill="#8899A6"/><circle id="svg_9" cx="256" cy="256" r="163.319" fill="#292F33"/><circle id="svg_10" cx="316.334" cy="138.859" r="65.328" fill="#F5F8FA"/></g></g></svg>
